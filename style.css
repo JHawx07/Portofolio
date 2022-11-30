@@ -5,6 +5,9 @@
 body {
     font-family: 'Montserrat' , sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 .homepage {
     background: url(img/Background.jpg)100%;
     height: 700px;
